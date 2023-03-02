@@ -3,7 +3,7 @@
 2. mango
 3. orange
 
-## vegitables
+# vegitables
 - carrot
 - onion
 - tomato
