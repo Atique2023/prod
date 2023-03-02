@@ -7,3 +7,4 @@
 - carrot
 - onion
 - tomato
+- potato
